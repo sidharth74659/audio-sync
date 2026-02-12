@@ -1,0 +1,35 @@
+[    9110ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://file-examples.com/index.php/sample-audio-files/:0
+[    9646ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://file-examples.com/favicon.ico:0
+[    9764ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://file-examples.com/favicon.ico:0
+[   11252ms] [ERROR]  Note that 'script-src' was not explicitly set, so 'default-src' is used as a fallback. @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/oi05d/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[   12033ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/9ccd00514fce160c/1770908905713/55ffdfb9835c1831b830478ac589de1d24e21977c62e957689f7e964836b031b/dfh528MsMAxx0Zg:0
+[   12082ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/oi05d/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[   12083ms] [ERROR] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/oi05d/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[   12087ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/oi05d/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[   12088ms] [WARNING] %c%d font-size:0;color:transparent NaN @ https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/oi05d/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto:0
+[   17398ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   17544ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   17614ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   18371ms] Error: Syntax error, unrecognized expression: https://file-examples.com/index.php/sample-audio-files/sample-mp3-download/
+    at fa.error (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:12733)
+    at fa.tokenize (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:18786)
+    at fa.select (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:21594)
+    at n.fa [as find] (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:7320)
+    at n.fn.init.find (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:24109)
+    at new n.fn.init (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:24676)
+    at n (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:406)
+    at HTMLAnchorElement.<anonymous> (https://file-examples.com/wp-content/themes/file-examples/js/new-age.min.js:6:127)
+    at HTMLAnchorElement.dispatch (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:3:12444)
+    at r.handle (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:3:9173)
+[   21455ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[   22154ms] Error: Syntax error, unrecognized expression: https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_700KB.mp3
+    at fa.error (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:12733)
+    at fa.tokenize (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:18786)
+    at fa.select (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:21594)
+    at n.fa [as find] (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:7320)
+    at n.fn.init.find (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:24109)
+    at new n.fn.init (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:24676)
+    at n (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:2:406)
+    at HTMLAnchorElement.<anonymous> (https://file-examples.com/wp-content/themes/file-examples/js/new-age.min.js:6:127)
+    at HTMLAnchorElement.dispatch (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:3:12444)
+    at r.handle (https://file-examples.com/wp-content/themes/file-examples/vendor/jquery/jquery.min.js:3:9173)
